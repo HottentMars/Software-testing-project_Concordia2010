@@ -1,0 +1,10 @@
+-The goal of the project is to test a wheather temperature storage system using blackbox and whitebox testing techniques.
+
+-The system is an application that permits users to manage the weather condition by means of data
+insertion, deletion, sorting, and display etc. The application is also a demonstration of how the
+information related to weather condition is handled by basic data structures of arrays, unidirectional
+linked lists, and bidirectional linked lists.
+The application features in providing a friendly text-based user interface which allows user to select
+data structure and operation they want to work with.
+
+-For more information check the pdf files.
